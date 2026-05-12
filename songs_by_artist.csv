@@ -1,0 +1,51 @@
+artist_name,release_year,song_id,title,duration_secs,audio_format,bit_rate,sample_rate
+Aurora Skies,2023,s001,Northern Lights,156,AAC,192,44100
+Aurora Skies,2023,s004,Midnight Sun,329,OGG,192,48000
+Aurora Skies,2022,s005,Frozen Echoes,357,MP3,192,48000
+Aurora Skies,2019,s002,Winter Haze,323,MP3,320,44100
+Aurora Skies,2018,s003,Polar Drift,205,FLAC,128,44100
+Desert Bloom,2024,s048,Sunbaked,167,MP3,192,48000
+Desert Bloom,2023,s050,Monsoon,294,AAC,256,44100
+Desert Bloom,2020,s046,First Rain,164,MP3,256,44100
+Desert Bloom,2018,s047,Cactus Flower,272,FLAC,128,44100
+Desert Bloom,2018,s049,Arroya,213,MP3,128,48000
+Echo Chamber,2024,s028,Room Tone,344,FLAC,192,48000
+Echo Chamber,2023,s030,Quiet Noise,252,AAC,320,48000
+Echo Chamber,2022,s029,Phase Shift,217,OGG,192,44100
+Echo Chamber,2021,s026,Reverberation,178,AAC,256,44100
+Echo Chamber,2018,s027,Standing Wave,295,MP3,128,48000
+Glass Harbor,2024,s034,Salt Air,168,FLAC,256,48000
+Glass Harbor,2023,s033,The Pier,165,FLAC,128,44100
+Glass Harbor,2022,s032,Low Tide,208,FLAC,128,44100
+Glass Harbor,2019,s035,Morning Fog,183,OGG,192,48000
+Glass Harbor,2018,s031,Still Water,207,MP3,256,44100
+Lunar Static,2024,s041,Dead Channel,175,MP3,128,44100
+Lunar Static,2024,s042,Frequency,192,OGG,320,48000
+Lunar Static,2023,s045,White Static,319,OGG,192,44100
+Lunar Static,2021,s044,Noise Floor,350,OGG,256,48000
+Lunar Static,2019,s043,The Signal,165,FLAC,320,44100
+Midnight Atlas,2023,s022,Third Meridian,324,AAC,256,44100
+Midnight Atlas,2022,s024,Uncharted,279,MP3,256,44100
+Midnight Atlas,2021,s021,Compass Rose,302,OGG,256,44100
+Midnight Atlas,2020,s023,Latitude Blues,190,OGG,128,48000
+Midnight Atlas,2019,s025,Zero Degree,345,FLAC,128,48000
+Neon Drift,2024,s008,Signal Lost,336,OGG,128,48000
+Neon Drift,2020,s006,City Pulse,189,FLAC,256,44100
+Neon Drift,2018,s007,Neon Rain,174,AAC,256,48000
+Neon Drift,2018,s009,Electric Blue,225,AAC,192,44100
+Neon Drift,2018,s010,Infrared,208,AAC,128,44100
+Sol Collective,2024,s020,Ochre Light,189,FLAC,320,44100
+Sol Collective,2021,s017,Sand and Sky,267,FLAC,256,44100
+Sol Collective,2020,s019,The Long Road,185,OGG,128,44100
+Sol Collective,2019,s018,Red Horizon,287,AAC,320,48000
+Sol Collective,2018,s016,Desert Dawn,295,AAC,192,48000
+The Velvet Underground Revival,2024,s011,Pale Curtain,247,AAC,320,48000
+The Velvet Underground Revival,2022,s013,Bitter Honey,193,FLAC,192,48000
+The Velvet Underground Revival,2021,s014,Glass Mural,313,FLAC,256,44100
+The Velvet Underground Revival,2019,s012,Sunday Haze,240,FLAC,256,44100
+The Velvet Underground Revival,2019,s015,Slow Burn,356,AAC,320,48000
+The Wandering Keys,2024,s036,Minor Key,198,MP3,128,48000
+The Wandering Keys,2020,s037,Pentatonic Dreams,255,OGG,128,44100
+The Wandering Keys,2019,s039,Bridge Section,287,OGG,192,48000
+The Wandering Keys,2019,s040,Coda,268,FLAC,128,48000
+The Wandering Keys,2018,s038,The Cadenza,336,AAC,128,44100

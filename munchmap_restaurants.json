@@ -1,0 +1,1287 @@
+[
+  {
+    "_id": "r001",
+    "name": "Bistro Korean Bar 1",
+    "cuisine": "Korean",
+    "borough": "Brooklyn",
+    "rating": 4.8,
+    "price_tier": 1,
+    "address": {
+      "street": "642 Main St",
+      "borough": "Brooklyn",
+      "zipcode": "14453"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -73.71749,
+        40.483697
+      ]
+    },
+    "tags": [
+      "gluten_free",
+      "reservations"
+    ],
+    "opened_year": 2008
+  },
+  {
+    "_id": "r002",
+    "name": "Caf\u00e9 Indian House 2",
+    "cuisine": "Indian",
+    "borough": "Staten Island",
+    "rating": 4.5,
+    "price_tier": 3,
+    "address": {
+      "street": "703 Oak St",
+      "borough": "Staten Island",
+      "zipcode": "11389"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -73.80345,
+        40.839319
+      ]
+    },
+    "tags": [
+      "gluten_free",
+      "takeaway",
+      "outdoor_seating",
+      "reservations"
+    ],
+    "opened_year": 2007
+  },
+  {
+    "_id": "r003",
+    "name": "Casa Italian Garden 3",
+    "cuisine": "Italian",
+    "borough": "Manhattan",
+    "rating": 4.5,
+    "price_tier": 2,
+    "address": {
+      "street": "398 Park St",
+      "borough": "Manhattan",
+      "zipcode": "17626"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -73.870015,
+        40.679042
+      ]
+    },
+    "tags": [
+      "takeaway",
+      "outdoor_seating",
+      "reservations",
+      "gluten_free"
+    ],
+    "opened_year": 2008
+  },
+  {
+    "_id": "r004",
+    "name": "Bistro Korean House 4",
+    "cuisine": "Korean",
+    "borough": "Brooklyn",
+    "rating": 4.1,
+    "price_tier": 3,
+    "address": {
+      "street": "869 Main St",
+      "borough": "Brooklyn",
+      "zipcode": "16860"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -73.797616,
+        40.709175
+      ]
+    },
+    "tags": [
+      "takeaway"
+    ],
+    "opened_year": 2014
+  },
+  {
+    "_id": "r005",
+    "name": "Noodle French House 5",
+    "cuisine": "French",
+    "borough": "Brooklyn",
+    "rating": 3.4,
+    "price_tier": 2,
+    "address": {
+      "street": "161 Elm St",
+      "borough": "Brooklyn",
+      "zipcode": "14602"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -73.947435,
+        40.863345
+      ]
+    },
+    "tags": [
+      "gluten_free",
+      "reservations"
+    ],
+    "opened_year": 2022
+  },
+  {
+    "_id": "r006",
+    "name": "Noodle American Garden 6",
+    "cuisine": "American",
+    "borough": "Manhattan",
+    "rating": 3.4,
+    "price_tier": 1,
+    "address": {
+      "street": "567 Elm St",
+      "borough": "Manhattan",
+      "zipcode": "13316"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -73.713854,
+        40.843489
+      ]
+    },
+    "tags": [
+      "outdoor_seating"
+    ],
+    "opened_year": 2005
+  },
+  {
+    "_id": "r007",
+    "name": "Casa French Garden 7",
+    "cuisine": "French",
+    "borough": "Staten Island",
+    "rating": 3.6,
+    "price_tier": 1,
+    "address": {
+      "street": "423 Lexington St",
+      "borough": "Staten Island",
+      "zipcode": "19397"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -74.065949,
+        40.673763
+      ]
+    },
+    "tags": [
+      "delivery",
+      "gluten_free"
+    ],
+    "opened_year": 2012
+  },
+  {
+    "_id": "r008",
+    "name": "The French Bar 8",
+    "cuisine": "French",
+    "borough": "Queens",
+    "rating": 3.2,
+    "price_tier": 2,
+    "address": {
+      "street": "661 Elm St",
+      "borough": "Queens",
+      "zipcode": "12198"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -73.780136,
+        40.490679
+      ]
+    },
+    "tags": [
+      "gluten_free",
+      "outdoor_seating",
+      "takeaway"
+    ],
+    "opened_year": 2008
+  },
+  {
+    "_id": "r009",
+    "name": "Noodle Indian Kitchen 9",
+    "cuisine": "Indian",
+    "borough": "Staten Island",
+    "rating": 3.8,
+    "price_tier": 1,
+    "address": {
+      "street": "292 Elm St",
+      "borough": "Staten Island",
+      "zipcode": "12143"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -74.048714,
+        40.565425
+      ]
+    },
+    "tags": [
+      "takeaway",
+      "reservations"
+    ],
+    "opened_year": 2019
+  },
+  {
+    "_id": "r010",
+    "name": "Bistro Thai Garden 10",
+    "cuisine": "Thai",
+    "borough": "Staten Island",
+    "rating": 4.2,
+    "price_tier": 2,
+    "address": {
+      "street": "982 Park St",
+      "borough": "Staten Island",
+      "zipcode": "13762"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -74.039042,
+        40.746729
+      ]
+    },
+    "tags": [
+      "takeaway"
+    ],
+    "opened_year": 2012
+  },
+  {
+    "_id": "r011",
+    "name": "Le Indian Place 11",
+    "cuisine": "Indian",
+    "borough": "The Bronx",
+    "rating": 3.4,
+    "price_tier": 2,
+    "address": {
+      "street": "457 Broadway St",
+      "borough": "The Bronx",
+      "zipcode": "16004"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -73.828168,
+        40.579743
+      ]
+    },
+    "tags": [
+      "vegan_options",
+      "outdoor_seating",
+      "delivery",
+      "takeaway"
+    ],
+    "opened_year": 2007
+  },
+  {
+    "_id": "r012",
+    "name": "Noodle American House 12",
+    "cuisine": "American",
+    "borough": "Manhattan",
+    "rating": 4.7,
+    "price_tier": 3,
+    "address": {
+      "street": "78 Main St",
+      "borough": "Manhattan",
+      "zipcode": "19309"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -73.806582,
+        40.498216
+      ]
+    },
+    "tags": [
+      "vegan_options"
+    ],
+    "opened_year": 2023
+  },
+  {
+    "_id": "r013",
+    "name": "Bistro Chinese Place 13",
+    "cuisine": "Chinese",
+    "borough": "Staten Island",
+    "rating": 3.2,
+    "price_tier": 3,
+    "address": {
+      "street": "794 Oak St",
+      "borough": "Staten Island",
+      "zipcode": "16993"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -73.995753,
+        40.418328
+      ]
+    },
+    "tags": [
+      "delivery",
+      "vegan_options",
+      "takeaway",
+      "outdoor_seating"
+    ],
+    "opened_year": 2019
+  },
+  {
+    "_id": "r014",
+    "name": "Casa Korean Bar 14",
+    "cuisine": "Korean",
+    "borough": "Staten Island",
+    "rating": 3.0,
+    "price_tier": 3,
+    "address": {
+      "street": "170 Elm St",
+      "borough": "Staten Island",
+      "zipcode": "13299"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -74.095763,
+        40.581933
+      ]
+    },
+    "tags": [
+      "delivery",
+      "gluten_free",
+      "vegan_options",
+      "takeaway"
+    ],
+    "opened_year": 2020
+  },
+  {
+    "_id": "r015",
+    "name": "Le Thai Kitchen 15",
+    "cuisine": "Thai",
+    "borough": "Brooklyn",
+    "rating": 3.3,
+    "price_tier": 1,
+    "address": {
+      "street": "685 Oak St",
+      "borough": "Brooklyn",
+      "zipcode": "19485"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -74.074856,
+        40.643821
+      ]
+    },
+    "tags": [
+      "reservations",
+      "gluten_free",
+      "vegan_options"
+    ],
+    "opened_year": 2006
+  },
+  {
+    "_id": "r016",
+    "name": "Le Italian Garden 16",
+    "cuisine": "Italian",
+    "borough": "Queens",
+    "rating": 3.0,
+    "price_tier": 3,
+    "address": {
+      "street": "558 Elm St",
+      "borough": "Queens",
+      "zipcode": "13848"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -73.846573,
+        40.884221
+      ]
+    },
+    "tags": [
+      "gluten_free",
+      "reservations",
+      "takeaway",
+      "vegan_options"
+    ],
+    "opened_year": 2007
+  },
+  {
+    "_id": "r017",
+    "name": "Le Korean Garden 17",
+    "cuisine": "Korean",
+    "borough": "Queens",
+    "rating": 3.6,
+    "price_tier": 2,
+    "address": {
+      "street": "812 Park St",
+      "borough": "Queens",
+      "zipcode": "11108"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -73.893451,
+        40.853621
+      ]
+    },
+    "tags": [
+      "reservations",
+      "delivery"
+    ],
+    "opened_year": 2012
+  },
+  {
+    "_id": "r018",
+    "name": "Le Japanese Bar 18",
+    "cuisine": "Japanese",
+    "borough": "Staten Island",
+    "rating": 4.2,
+    "price_tier": 3,
+    "address": {
+      "street": "837 Main St",
+      "borough": "Staten Island",
+      "zipcode": "14773"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -74.025238,
+        40.505759
+      ]
+    },
+    "tags": [
+      "takeaway",
+      "outdoor_seating",
+      "reservations",
+      "gluten_free"
+    ],
+    "opened_year": 2020
+  },
+  {
+    "_id": "r019",
+    "name": "Casa Mediterranean House 19",
+    "cuisine": "Mediterranean",
+    "borough": "Manhattan",
+    "rating": 4.0,
+    "price_tier": 1,
+    "address": {
+      "street": "588 Elm St",
+      "borough": "Manhattan",
+      "zipcode": "13639"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -73.93564,
+        40.72363
+      ]
+    },
+    "tags": [
+      "gluten_free",
+      "vegan_options"
+    ],
+    "opened_year": 2006
+  },
+  {
+    "_id": "r020",
+    "name": "Caf\u00e9 French Bar 20",
+    "cuisine": "French",
+    "borough": "Manhattan",
+    "rating": 2.9,
+    "price_tier": 3,
+    "address": {
+      "street": "653 Main St",
+      "borough": "Manhattan",
+      "zipcode": "15644"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -74.027985,
+        40.52913
+      ]
+    },
+    "tags": [
+      "delivery"
+    ],
+    "opened_year": 2019
+  },
+  {
+    "_id": "r021",
+    "name": "Bistro French Kitchen 21",
+    "cuisine": "French",
+    "borough": "The Bronx",
+    "rating": 4.6,
+    "price_tier": 3,
+    "address": {
+      "street": "841 Oak St",
+      "borough": "The Bronx",
+      "zipcode": "19369"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -73.767855,
+        40.485283
+      ]
+    },
+    "tags": [
+      "delivery",
+      "takeaway",
+      "reservations"
+    ],
+    "opened_year": 2023
+  },
+  {
+    "_id": "r022",
+    "name": "Bistro Japanese Bar 22",
+    "cuisine": "Japanese",
+    "borough": "Manhattan",
+    "rating": 3.6,
+    "price_tier": 3,
+    "address": {
+      "street": "430 Oak St",
+      "borough": "Manhattan",
+      "zipcode": "12577"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -74.093375,
+        40.466107
+      ]
+    },
+    "tags": [
+      "reservations",
+      "vegan_options"
+    ],
+    "opened_year": 2006
+  },
+  {
+    "_id": "r023",
+    "name": "Bistro Korean Bar 23",
+    "cuisine": "Korean",
+    "borough": "Staten Island",
+    "rating": 4.4,
+    "price_tier": 1,
+    "address": {
+      "street": "919 Lexington St",
+      "borough": "Staten Island",
+      "zipcode": "18069"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -73.836243,
+        40.446595
+      ]
+    },
+    "tags": [
+      "takeaway",
+      "outdoor_seating",
+      "reservations",
+      "vegan_options"
+    ],
+    "opened_year": 2020
+  },
+  {
+    "_id": "r024",
+    "name": "Noodle Chinese Bar 24",
+    "cuisine": "Chinese",
+    "borough": "Queens",
+    "rating": 4.0,
+    "price_tier": 1,
+    "address": {
+      "street": "436 Oak St",
+      "borough": "Queens",
+      "zipcode": "15170"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -73.795384,
+        40.770697
+      ]
+    },
+    "tags": [
+      "delivery",
+      "outdoor_seating",
+      "takeaway",
+      "reservations"
+    ],
+    "opened_year": 2022
+  },
+  {
+    "_id": "r025",
+    "name": "Bistro Chinese Bar 25",
+    "cuisine": "Chinese",
+    "borough": "Queens",
+    "rating": 3.2,
+    "price_tier": 1,
+    "address": {
+      "street": "533 Main St",
+      "borough": "Queens",
+      "zipcode": "17144"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -73.784231,
+        40.754574
+      ]
+    },
+    "tags": [
+      "gluten_free",
+      "takeaway"
+    ],
+    "opened_year": 2018
+  },
+  {
+    "_id": "r026",
+    "name": "Bistro Thai Place 26",
+    "cuisine": "Thai",
+    "borough": "Brooklyn",
+    "rating": 3.1,
+    "price_tier": 3,
+    "address": {
+      "street": "375 Elm St",
+      "borough": "Brooklyn",
+      "zipcode": "15514"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -73.998547,
+        40.725788
+      ]
+    },
+    "tags": [
+      "delivery",
+      "reservations",
+      "vegan_options",
+      "outdoor_seating"
+    ],
+    "opened_year": 2016
+  },
+  {
+    "_id": "r027",
+    "name": "Noodle Korean Place 27",
+    "cuisine": "Korean",
+    "borough": "Staten Island",
+    "rating": 3.8,
+    "price_tier": 3,
+    "address": {
+      "street": "142 Lexington St",
+      "borough": "Staten Island",
+      "zipcode": "12951"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -73.86894,
+        40.894254
+      ]
+    },
+    "tags": [
+      "reservations",
+      "delivery"
+    ],
+    "opened_year": 2008
+  },
+  {
+    "_id": "r028",
+    "name": "Noodle Indian House 28",
+    "cuisine": "Indian",
+    "borough": "Staten Island",
+    "rating": 3.6,
+    "price_tier": 1,
+    "address": {
+      "street": "399 Lexington St",
+      "borough": "Staten Island",
+      "zipcode": "11086"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -73.87977,
+        40.569219
+      ]
+    },
+    "tags": [
+      "delivery"
+    ],
+    "opened_year": 2020
+  },
+  {
+    "_id": "r029",
+    "name": "Bistro French House 29",
+    "cuisine": "French",
+    "borough": "The Bronx",
+    "rating": 3.0,
+    "price_tier": 3,
+    "address": {
+      "street": "394 Park St",
+      "borough": "The Bronx",
+      "zipcode": "19536"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -73.951666,
+        40.531546
+      ]
+    },
+    "tags": [
+      "gluten_free",
+      "vegan_options",
+      "outdoor_seating"
+    ],
+    "opened_year": 2010
+  },
+  {
+    "_id": "r030",
+    "name": "Bistro Mediterranean Garden 30",
+    "cuisine": "Mediterranean",
+    "borough": "The Bronx",
+    "rating": 2.8,
+    "price_tier": 1,
+    "address": {
+      "street": "35 Elm St",
+      "borough": "The Bronx",
+      "zipcode": "19364"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -73.727697,
+        40.825284
+      ]
+    },
+    "tags": [
+      "vegan_options",
+      "delivery"
+    ],
+    "opened_year": 2006
+  },
+  {
+    "_id": "r031",
+    "name": "Le Thai Place 31",
+    "cuisine": "Thai",
+    "borough": "Manhattan",
+    "rating": 4.2,
+    "price_tier": 2,
+    "address": {
+      "street": "686 Park St",
+      "borough": "Manhattan",
+      "zipcode": "17642"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -74.065263,
+        40.887823
+      ]
+    },
+    "tags": [
+      "vegan_options",
+      "outdoor_seating"
+    ],
+    "opened_year": 2007
+  },
+  {
+    "_id": "r032",
+    "name": "Le Japanese Garden 32",
+    "cuisine": "Japanese",
+    "borough": "Staten Island",
+    "rating": 3.4,
+    "price_tier": 2,
+    "address": {
+      "street": "232 Elm St",
+      "borough": "Staten Island",
+      "zipcode": "14187"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -73.733996,
+        40.814882
+      ]
+    },
+    "tags": [
+      "reservations",
+      "vegan_options",
+      "outdoor_seating",
+      "delivery"
+    ],
+    "opened_year": 2010
+  },
+  {
+    "_id": "r033",
+    "name": "The Chinese Bar 33",
+    "cuisine": "Chinese",
+    "borough": "Staten Island",
+    "rating": 3.0,
+    "price_tier": 2,
+    "address": {
+      "street": "898 Elm St",
+      "borough": "Staten Island",
+      "zipcode": "15098"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -73.982299,
+        40.436193
+      ]
+    },
+    "tags": [
+      "reservations",
+      "vegan_options",
+      "gluten_free",
+      "outdoor_seating"
+    ],
+    "opened_year": 2015
+  },
+  {
+    "_id": "r034",
+    "name": "Le Mediterranean House 34",
+    "cuisine": "Mediterranean",
+    "borough": "The Bronx",
+    "rating": 4.7,
+    "price_tier": 2,
+    "address": {
+      "street": "649 Oak St",
+      "borough": "The Bronx",
+      "zipcode": "14767"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -73.907212,
+        40.831012
+      ]
+    },
+    "tags": [
+      "reservations",
+      "takeaway",
+      "outdoor_seating"
+    ],
+    "opened_year": 2013
+  },
+  {
+    "_id": "r035",
+    "name": "The Indian Bar 35",
+    "cuisine": "Indian",
+    "borough": "Queens",
+    "rating": 3.0,
+    "price_tier": 1,
+    "address": {
+      "street": "488 Broadway St",
+      "borough": "Queens",
+      "zipcode": "16792"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -73.77157,
+        40.736849
+      ]
+    },
+    "tags": [
+      "vegan_options",
+      "takeaway"
+    ],
+    "opened_year": 2010
+  },
+  {
+    "_id": "r036",
+    "name": "Le Indian Kitchen 36",
+    "cuisine": "Indian",
+    "borough": "The Bronx",
+    "rating": 4.3,
+    "price_tier": 1,
+    "address": {
+      "street": "208 Oak St",
+      "borough": "The Bronx",
+      "zipcode": "16833"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -74.003177,
+        40.517431
+      ]
+    },
+    "tags": [
+      "outdoor_seating",
+      "gluten_free"
+    ],
+    "opened_year": 2007
+  },
+  {
+    "_id": "r037",
+    "name": "Caf\u00e9 Mediterranean Garden 37",
+    "cuisine": "Mediterranean",
+    "borough": "Staten Island",
+    "rating": 2.8,
+    "price_tier": 3,
+    "address": {
+      "street": "323 Park St",
+      "borough": "Staten Island",
+      "zipcode": "15501"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -73.716803,
+        40.828545
+      ]
+    },
+    "tags": [
+      "delivery",
+      "vegan_options",
+      "takeaway",
+      "gluten_free"
+    ],
+    "opened_year": 2012
+  },
+  {
+    "_id": "r038",
+    "name": "Bistro French House 38",
+    "cuisine": "French",
+    "borough": "Manhattan",
+    "rating": 2.9,
+    "price_tier": 3,
+    "address": {
+      "street": "356 Park St",
+      "borough": "Manhattan",
+      "zipcode": "13863"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -73.908672,
+        40.799635
+      ]
+    },
+    "tags": [
+      "outdoor_seating",
+      "vegan_options",
+      "reservations",
+      "delivery"
+    ],
+    "opened_year": 2005
+  },
+  {
+    "_id": "r039",
+    "name": "Le Italian Kitchen 39",
+    "cuisine": "Italian",
+    "borough": "Manhattan",
+    "rating": 3.6,
+    "price_tier": 3,
+    "address": {
+      "street": "270 Oak St",
+      "borough": "Manhattan",
+      "zipcode": "15413"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -73.955359,
+        40.450374
+      ]
+    },
+    "tags": [
+      "vegan_options",
+      "takeaway",
+      "gluten_free",
+      "outdoor_seating"
+    ],
+    "opened_year": 2020
+  },
+  {
+    "_id": "r040",
+    "name": "Caf\u00e9 Chinese Garden 40",
+    "cuisine": "Chinese",
+    "borough": "Manhattan",
+    "rating": 3.7,
+    "price_tier": 2,
+    "address": {
+      "street": "185 Elm St",
+      "borough": "Manhattan",
+      "zipcode": "13148"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -73.953969,
+        40.776098
+      ]
+    },
+    "tags": [
+      "outdoor_seating",
+      "takeaway"
+    ],
+    "opened_year": 2012
+  },
+  {
+    "_id": "r041",
+    "name": "Noodle Korean Kitchen 41",
+    "cuisine": "Korean",
+    "borough": "The Bronx",
+    "rating": 4.6,
+    "price_tier": 2,
+    "address": {
+      "street": "826 Main St",
+      "borough": "The Bronx",
+      "zipcode": "13893"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -73.779985,
+        40.498032
+      ]
+    },
+    "tags": [
+      "reservations",
+      "delivery",
+      "takeaway",
+      "vegan_options"
+    ],
+    "opened_year": 2014
+  },
+  {
+    "_id": "r042",
+    "name": "Casa American House 42",
+    "cuisine": "American",
+    "borough": "Staten Island",
+    "rating": 4.6,
+    "price_tier": 1,
+    "address": {
+      "street": "834 Broadway St",
+      "borough": "Staten Island",
+      "zipcode": "18807"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -74.06041,
+        40.423855
+      ]
+    },
+    "tags": [
+      "reservations"
+    ],
+    "opened_year": 2015
+  },
+  {
+    "_id": "r043",
+    "name": "Le American House 43",
+    "cuisine": "American",
+    "borough": "Queens",
+    "rating": 3.6,
+    "price_tier": 2,
+    "address": {
+      "street": "125 Broadway St",
+      "borough": "Queens",
+      "zipcode": "14259"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -73.775994,
+        40.678746
+      ]
+    },
+    "tags": [
+      "takeaway",
+      "gluten_free"
+    ],
+    "opened_year": 2015
+  },
+  {
+    "_id": "r044",
+    "name": "Bistro Korean Garden 44",
+    "cuisine": "Korean",
+    "borough": "The Bronx",
+    "rating": 4.4,
+    "price_tier": 2,
+    "address": {
+      "street": "647 Oak St",
+      "borough": "The Bronx",
+      "zipcode": "13745"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -74.068637,
+        40.623465
+      ]
+    },
+    "tags": [
+      "reservations",
+      "vegan_options",
+      "gluten_free"
+    ],
+    "opened_year": 2007
+  },
+  {
+    "_id": "r045",
+    "name": "Noodle Japanese Garden 45",
+    "cuisine": "Japanese",
+    "borough": "Manhattan",
+    "rating": 3.5,
+    "price_tier": 3,
+    "address": {
+      "street": "661 Park St",
+      "borough": "Manhattan",
+      "zipcode": "15444"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -73.838795,
+        40.556741
+      ]
+    },
+    "tags": [
+      "takeaway",
+      "vegan_options",
+      "reservations",
+      "delivery"
+    ],
+    "opened_year": 2010
+  },
+  {
+    "_id": "r046",
+    "name": "Noodle Mexican House 46",
+    "cuisine": "Mexican",
+    "borough": "Brooklyn",
+    "rating": 3.1,
+    "price_tier": 1,
+    "address": {
+      "street": "171 Park St",
+      "borough": "Brooklyn",
+      "zipcode": "12687"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -73.999341,
+        40.517314
+      ]
+    },
+    "tags": [
+      "outdoor_seating"
+    ],
+    "opened_year": 2020
+  },
+  {
+    "_id": "r047",
+    "name": "The Korean House 47",
+    "cuisine": "Korean",
+    "borough": "Brooklyn",
+    "rating": 2.9,
+    "price_tier": 2,
+    "address": {
+      "street": "633 Oak St",
+      "borough": "Brooklyn",
+      "zipcode": "12381"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -73.794001,
+        40.598506
+      ]
+    },
+    "tags": [
+      "takeaway",
+      "delivery",
+      "vegan_options",
+      "gluten_free"
+    ],
+    "opened_year": 2014
+  },
+  {
+    "_id": "r048",
+    "name": "Noodle Mediterranean Garden 48",
+    "cuisine": "Mediterranean",
+    "borough": "Manhattan",
+    "rating": 3.1,
+    "price_tier": 2,
+    "address": {
+      "street": "885 Park St",
+      "borough": "Manhattan",
+      "zipcode": "18654"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -74.088571,
+        40.819259
+      ]
+    },
+    "tags": [
+      "vegan_options",
+      "reservations",
+      "delivery"
+    ],
+    "opened_year": 2022
+  },
+  {
+    "_id": "r049",
+    "name": "Bistro Mexican Place 49",
+    "cuisine": "Mexican",
+    "borough": "Staten Island",
+    "rating": 4.1,
+    "price_tier": 3,
+    "address": {
+      "street": "656 Lexington St",
+      "borough": "Staten Island",
+      "zipcode": "19745"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -73.84566,
+        40.715524
+      ]
+    },
+    "tags": [
+      "takeaway",
+      "reservations",
+      "delivery"
+    ],
+    "opened_year": 2007
+  },
+  {
+    "_id": "r050",
+    "name": "The Mediterranean Bar 50",
+    "cuisine": "Mediterranean",
+    "borough": "Queens",
+    "rating": 3.6,
+    "price_tier": 1,
+    "address": {
+      "street": "353 Broadway St",
+      "borough": "Queens",
+      "zipcode": "18687"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -73.978571,
+        40.529904
+      ]
+    },
+    "tags": [
+      "gluten_free"
+    ],
+    "opened_year": 2020
+  }
+]

@@ -1,0 +1,51 @@
+genre,release_year,song_id,title,artist_name,duration_secs
+Ambient,2024,s034,Salt Air,Glass Harbor,168
+Ambient,2023,s001,Northern Lights,Aurora Skies,156
+Ambient,2023,s004,Midnight Sun,Aurora Skies,329
+Ambient,2023,s033,The Pier,Glass Harbor,165
+Ambient,2022,s005,Frozen Echoes,Aurora Skies,357
+Ambient,2022,s032,Low Tide,Glass Harbor,208
+Ambient,2019,s002,Winter Haze,Aurora Skies,323
+Ambient,2019,s035,Morning Fog,Glass Harbor,183
+Ambient,2018,s003,Polar Drift,Aurora Skies,205
+Ambient,2018,s031,Still Water,Glass Harbor,207
+Electronic,2024,s008,Signal Lost,Neon Drift,336
+Electronic,2024,s028,Room Tone,Echo Chamber,344
+Electronic,2024,s041,Dead Channel,Lunar Static,175
+Electronic,2024,s042,Frequency,Lunar Static,192
+Electronic,2023,s030,Quiet Noise,Echo Chamber,252
+Electronic,2023,s045,White Static,Lunar Static,319
+Electronic,2022,s029,Phase Shift,Echo Chamber,217
+Electronic,2021,s026,Reverberation,Echo Chamber,178
+Electronic,2021,s044,Noise Floor,Lunar Static,350
+Electronic,2020,s006,City Pulse,Neon Drift,189
+Electronic,2019,s043,The Signal,Lunar Static,165
+Electronic,2018,s007,Neon Rain,Neon Drift,174
+Electronic,2018,s009,Electric Blue,Neon Drift,225
+Electronic,2018,s010,Infrared,Neon Drift,208
+Electronic,2018,s027,Standing Wave,Echo Chamber,295
+Folk,2024,s020,Ochre Light,Sol Collective,189
+Folk,2024,s048,Sunbaked,Desert Bloom,167
+Folk,2023,s050,Monsoon,Desert Bloom,294
+Folk,2021,s017,Sand and Sky,Sol Collective,267
+Folk,2020,s019,The Long Road,Sol Collective,185
+Folk,2020,s046,First Rain,Desert Bloom,164
+Folk,2019,s018,Red Horizon,Sol Collective,287
+Folk,2018,s016,Desert Dawn,Sol Collective,295
+Folk,2018,s047,Cactus Flower,Desert Bloom,272
+Folk,2018,s049,Arroya,Desert Bloom,213
+Indie Rock,2024,s011,Pale Curtain,The Velvet Underground Revival,247
+Indie Rock,2023,s022,Third Meridian,Midnight Atlas,324
+Indie Rock,2022,s013,Bitter Honey,The Velvet Underground Revival,193
+Indie Rock,2022,s024,Uncharted,Midnight Atlas,279
+Indie Rock,2021,s014,Glass Mural,The Velvet Underground Revival,313
+Indie Rock,2021,s021,Compass Rose,Midnight Atlas,302
+Indie Rock,2020,s023,Latitude Blues,Midnight Atlas,190
+Indie Rock,2019,s012,Sunday Haze,The Velvet Underground Revival,240
+Indie Rock,2019,s015,Slow Burn,The Velvet Underground Revival,356
+Indie Rock,2019,s025,Zero Degree,Midnight Atlas,345
+Jazz,2024,s036,Minor Key,The Wandering Keys,198
+Jazz,2020,s037,Pentatonic Dreams,The Wandering Keys,255
+Jazz,2019,s039,Bridge Section,The Wandering Keys,287
+Jazz,2019,s040,Coda,The Wandering Keys,268
+Jazz,2018,s038,The Cadenza,The Wandering Keys,336
